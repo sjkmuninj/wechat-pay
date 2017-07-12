@@ -1,5 +1,5 @@
 {
-  "name": "wechat-pay",
+  "name": "wechat-pay-ymlinks",
   "version": "0.2.5",
   "description": "wechat payment api for document v3.3.5",
   "main": "index.js",
@@ -9,20 +9,20 @@
   },
   "repository":
   {
-    "type": "git",
-    "url": "git://github.com/supersheep/wechat-pay.git"
+    "type": "https",
+    "url": "https://github.com/sjkmuninj/wechat-pay-ymlinks.git"
   },
   "keywords": [
     "wechat",
     "payment"
   ],
-  "author": "spud",
-  "license": "ISC",
+  "author": "sjkmuninj",
+  "license": "MIT",
   "bugs":
   {
-    "url": "https://github.com/supersheep/wechat-pay/issues"
+    "url": "https://github.com/sjkmuninj/wechat-pay-ymlinks/issues"
   },
-  "homepage": "https://github.com/supersheep/wechat-pay",
+  "homepage": "https://github.com/sjkmuninj/wechat-pay-ymlinks",
   "dependencies":
   {
     "md5": "^2.0.0",
